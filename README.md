@@ -27,7 +27,3 @@ I'm a Software Developer from Brazil 💚 🇧🇷, **25 years old** 👨‍💻
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ----
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
-   
-![Lucas Queiroz - GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucqroz&show_icons=true)
