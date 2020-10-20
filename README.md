@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm Lucas!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/PC.gif" width="24px">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/lucqroz)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucqroz?tab=repositories](https://github.com/lucqroz)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lqsilva/)](link_do_seu_perfil_no_linkedin)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmail.com)](mailto:lqsdesigner@gmail.com)
 
 ---- 
