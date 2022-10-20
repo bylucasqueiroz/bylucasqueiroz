@@ -7,7 +7,7 @@
 ---- 
 I'm a Software Developer from Brazil 💚 🇧🇷, **27 years old** 👨‍💻. 
 
-* 💻 Computer Engineering Student. 
+* 💻 Computer Engineering. 
 * 🚀 Passionate about technology. 
 * 👽 I am very interested in the technologies and frameworks of the .NET/C# platform.
 
