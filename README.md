@@ -1,15 +1,15 @@
-### 👋 Hello, I'm Lucas!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/PC.gif" width="24px">
+### 👋 Hello, I'm Lucas!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/lqcodes?tab=repositories)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_github)](https://www.linkedin.com/in/lqcodes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmail.com)](mailto:lqsdesigner@gmail.com)
 
 ---- 
-I'm a Software Developer from Brazil 💚 🇧🇷, **27 years old** 👨‍💻. 
+I'm a Software Engineer from Brazil working at Itaú Unibanco 💚👨‍💻. 
 
-* 💻 Computer Engineering. 
+* 💻 I hold a Bachelor's Degree in Computer Engineering.
 * 🚀 Passionate about technology. 
-* 👽 I am very interested in the technologies and frameworks of the .NET/C# platform.
+* 👽 I am very interested in programming languages like C#, Python, Go.
 
 ----
 
