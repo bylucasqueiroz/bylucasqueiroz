@@ -29,6 +29,3 @@
     </a>
     
 </p>
-
-<h3 align="left">My mainly used languages:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lqcodes&show_icons=true&locale=en&layout=compact" alt="lqcodes" /></p>
